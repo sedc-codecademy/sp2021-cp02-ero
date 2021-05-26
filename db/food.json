@@ -1,0 +1,14 @@
+{
+  "food": [
+    {
+      "id": "1",
+      "question": "Is organic food the same as sustainable food?",
+      "answer": "Organic food is grown without synthetic inputs such as chemical pesticides or synthetic fertilizers. Organic farms instead use natural approaches and fertilizers, such as crop rotation and manure, to control pests, diseases and weeds. Due to these practices, organic food, most of the time can be more sustainable."
+    },
+    {
+      "id": "2",
+      "question": "Is local food the same as sustainable food?",
+      "answer": "Local food is mostly beneficial in sustainability because it doesn't create CO2 emissions for transportation."
+    }
+  ]
+}

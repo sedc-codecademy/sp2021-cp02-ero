@@ -1,0 +1,14 @@
+{
+  "fashion": [
+    {
+      "id": "1",
+      "question": "Which habit will help me to shop more sustainably?",
+      "answer": "Before buying any item of clothing, think about the 30 Wears Test & ask yourself if you will wear a certain item more than 30 times. Buy the item only if your answer is yes."
+    },
+    {
+      "id": "2",
+      "question": "How shopping at the thrift store makes me an eco-friendly buyer?",
+      "answer": "When you buy from thrift & vintage stores, you are giving a second chance to the items. That not only reduces the amount of waste, but also reduces the amount of new items produced."
+    }
+  ]
+}
