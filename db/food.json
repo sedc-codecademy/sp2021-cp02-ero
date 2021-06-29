@@ -7,6 +7,42 @@
     },
     {
       "id": "2",
+      "question": "Which habit will help me to shop more sustainable food?",
+      "answer": "Which habit will help me to shop more sustainable food?"
+    },
+    {
+      "id": "3",
+      "question": "Which meals cause the greatest negative impact? ",
+      "answer": "Unless you already cook meatless meals most nights, you’ll make the biggest impact with this one step. Swap poultry into a few dinners a week, fish into one or two, and then round things out with vegetarian or vegan meals. "
+    },
+    {
+      "id": "4",
+      "question": "How to reduce the CO2 emissions produced by food?",
+      "answer": "Food from outside of your local area needs to be transported by boat, plane, or truck. That means the greater the distance, the more greenhouse gas (GHG) emissions enter the atmosphere with each shipment. So, local food is generally more sustainable than food that was produced in a different continent or country."
+    },
+    {
+      "id": "5",
+      "question": "What type of food packaging is sustainable?",
+      "answer": "Try to stay away from all packaging. Buy fruits and vegetables, locally, without plastic bags.
+      Since avoiding all packaging isn't possible, for non-fruit and vegetable items, stick to glass, aluminum, cardboard or paper packaging."
+    },
+    {
+      "id": "6",
+      "question": "How to reduce my food waste?",
+      "answer": "Before you buy any food, be honest with yourself about whether or not you will eat it. Food waste is a major issue in developed societies, with 30-40% of food going to waste. When you throw away food, all the energy and resources required to make that food goes to waste."
+    },
+    {
+      "id": "7",
+      "question": "What can the packaging tell me about the sustainability of a product?",
+      "answer": "Make sure to read the labels. There are so many different certificates and logos that you can opt for like fair-trade, organic, safe catch, non-gmo, social association, etc. to make sure that the products you’re buying are good for the environment!"
+    },
+    {
+      "id": "8",
+      "question": "Is it better to buy less or more products at a time?",
+      "answer": "Buying dry goods such as dried lentils, beans, nuts, and seeds, in bulk is not only more sustainable, it’s more cost-effective, too. There’s no spoilage and you cut down on packaging."
+    },
+    {
+      "id": "9",
       "question": "Is local food the same as sustainable food?",
       "answer": "Local food is mostly beneficial in sustainability because it doesn't create CO2 emissions for transportation."
     }

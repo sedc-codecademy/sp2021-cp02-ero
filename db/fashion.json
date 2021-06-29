@@ -7,6 +7,51 @@
     },
     {
       "id": "2",
+      "question": "What are the most sustainable fabrics I shall look out for?.",
+      "answer": "Top five sustainable fabrics are: organic cotton, recycled cotton, hemp, linen and lyocell."
+    },
+    {
+      "id": "3",
+      "question": "What are the top characteristics I shall look out when shopping for apparel?",
+      "answer": "The best way to live by the principles of sustainable fashion is to buy fewer clothes but of higher       quality. Well-made garment made of  durable and resistant materials can be more expensive at first but will help you to save money in the long run."
+    },
+    {
+      "id": "4",
+      "question": "How does fast fashion impact the waterways?",
+      "answer": "Cheap clothing is a big source of microplastics in our oceans. Synthetic materials like polyester and acrylic contribute over 500,000 tonnes of plastic into oceans a year. Pesticides and other chemicals used to make raw materials grow faster can run off and enter streams and rivers, affecting soil and drinking water for those living nearby."
+    },
+    {
+      "id": "5",
+      "question": "Is fast fashion negatively impacting the air we breathe?",
+      "answer": "The fashion industry itself is responsible for 10% of carbon emissions caused during production, manufacturing and transportation. Producing synthetic fibres like polyester, together with the energy required to power fashion’s industrial practices create smoke, polluting the air in the heart of metropolitan cities."
+    },
+    {
+      "id": "6",
+      "question": "Which values I shall be looking in a brand?",
+      "answer": "To check if a fashion brand is ethical and sustainable, you must foresee where and how their clothes were made. Many fashion brands hide that they use unsafe factories, forced labor, and child labor to produce their clothes. They abuse farmers, workers, and animals in their supply chain. Visit EnRoute's App to see what is there behind your favorite brand."
+    },
+    {
+      "id": "7",
+      "question": "Which values I shall be looking in a brand?",
+      "answer": "To check if a fashion brand is ethical and sustainable, you must foresee where and how their clothes were made. Many fashion brands hide that they use unsafe factories, forced labor, and child labor to produce their clothes. They abuse farmers, workers, and animals in their supply chain. Visit EnRoute's App to see what is there behind your favorite brand."
+    },
+    {
+      "id": "8",
+      "question": "How to reduce my laundry environmental impact?",
+      "answer": "Washing our clothes has a significant environmental impact. The average household does almost 400 loads of laundry every year, consuming about 60,000 liters of water. To be more sustainable, buy an efficient washing machine, wash full loads, use cold water and avoid dry cleaning."
+    },
+    {
+      "id": "9",
+      "question": "Special Events require clothes that I will use only once. What's the perfect solution?",
+      "answer": "Sometimes certain events require purchasing clothing that doesn’t fit your daily lifestyle. If you’re not going to wear a special-occasion garment more than once, consider renting. "
+    },
+    {
+      "id": "10",
+      "question": "How can I reduce my fashion waste?",
+      "answer": "Either donate it at a thrift store or get creative before you throw it away. Whether its re-designing your t-shirt or creating a new piece from an old pair of jeans thousands of people around the world are starting projects to help people make the most out of what they already have."
+    },
+    {
+      "id": "11",
       "question": "How shopping at the thrift store makes me an eco-friendly buyer?",
       "answer": "When you buy from thrift & vintage stores, you are giving a second chance to the items. That not only reduces the amount of waste, but also reduces the amount of new items produced."
     }

@@ -7,6 +7,46 @@
     },
     {
       "id": "2",
+      "question": "How to pursue zero-carbon activities?",
+      "answer": "Not all carbon emissions can be avoided whilst traveling. Make sure to choose adventures where the carbon emissions can be calculated, reduced wherever possible and offset what remains. The best option is to find local adventures, such as walking in unexplored corners of your neighborhood or visiting museums in your city."
+    },
+    {
+      "id": "3",
+      "question": "Which airplane class is the most sustainable to travel in?",
+      "answer": "Flying economy class is actually better than flying business class. Business class fliers create far larger carbon footprints than economy fliers. First of all, business class takes up loads of physical space, while economy class carries more people and is thus way more efficient. Secondly, the amount of water being used and the amount of waste produced in business class is significantly higher than that of economy class."
+    },
+    {
+      "id": "4",
+      "question": "How to choose a sustainable accommodation when travelling?",
+      "answer": "Look out for the energy the hotel uses! Furthermore check their recycling plan, community action and usage of local products!"
+    },
+    {
+      "id": "5",
+      "question": "How to reduce waste while travelling?",
+      "answer": "Take your own shower products with you in reusable bottles, so you don't have to use your hotel's mini shampoos and body lotions. This way you don't add to the pile of waste at your holiday destination. Bring your own water bottles that you can refill and bring your own bags so you can say no to plastic!"
+    },
+    {
+      "id": "6",
+      "question": "Are trains indeed sustainable?",
+      "answer": "By most accounts, trains as a form of travel emit the lowest levels of greenhouse gases and other harmful pollutants, whether they are electric or diesel-powered."
+    },
+    {
+      "id": "7",
+      "question": "Are boats a better option than planes?",
+      "answer": "Cruise ships may seem like a good alternative, but they can be even more polluting, say experts. According to one 2017 study, even the most efficient cruise ships emit between three to four times more carbon dioxide per passenger per kilometer than commercial flights. "
+    },
+    {
+      "id": "8",
+      "question": "How to travel short-distances without creating CO2 emissions?",
+      "answer": "Bicycles are the oldest green option for short-distance travel. Additionally check out electric scooters and hoverboards. You can both buy them for yourself, or rent for using them."
+    },
+    {
+      "id": "9",
+      "question": "Does the amount of baggage I bring, influence the amount of CO2 emissions produced?",
+      "answer": "Every kilo counts when flying. The more a plane weighs, the more carbon emissions it produces. Pack only what you need - the environment will thank you."
+    },
+    {
+      "id": "10",
       "question": "Do buying carbon offsets means you travel sustainably?",
       "answer": "Yes...but no! Offsets, no matter how good their stories can sound, tend to be unregulated and can vary substantially in quality, often manipulating the numbers of CO2 emissions."
     }
