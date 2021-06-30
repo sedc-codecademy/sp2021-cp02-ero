@@ -5,26 +5,40 @@
 }
 body
 {
+    /*
     display: flex;
     justify-content: center;
     align-items: center;
+    */
+    display: block;
 }
+.containerBox
+{
+  background-image: linear-gradient(180deg, rgba(101, 202, 101, 1.5), #F6E74D);
+  width: 100%;
+  height: 600px;
+  display: flex;
+  padding: 3%;
+
+}
+
 .container
 {
   position: relative;
-  width: 600px;
+  width: 70%;
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
   flex-wrap: wrap;
   padding: 30px;
-  background-color: #ffe54a;
+  
+  
 }
 .container .card
 {
     position: relative;
-    max-width: 208px;
-    height: 100px;
+    max-width: 250px;
+    height: 160px;
     background: #ffffff;
     margin: 30px 10px;
     padding: 20px 15px;
@@ -32,7 +46,11 @@ body
     flex-direction: column;
     box-shadow: 0 5px 202px rgba(0,0,0,0,5);
     transition:  0.3s ease-in-out;
+    text-align:center;
     
+ /* background-image: linear-gradient(180deg, rgba(101, 202, 101, 1.5), #F6E74D);*/
+
+   
 }
 .container .card:hover
 {
@@ -41,8 +59,8 @@ body
 .container .card .box1
 {
     position: relative;
-    width: 260px;
-    height: 260px;
+    width: 360px;
+    height: 360px;
     top:-60px;
     left: 2px;
     z-index: 1;
@@ -61,8 +79,8 @@ img
 {
     position: relative;
     margin-top: -140px;
-    padding: 10px 15px;
-    text-align: center;
+    padding: 10px 10px;
+    text-align:center;
     color: #111;
     visibility: hidden;
     opacity: 0;
@@ -72,6 +90,46 @@ img
 {
    visibility: visible;
    opacity: 1;
-   margin-top: -40px;
+   margin-top: -70px;
    transition-delay: 0.1s;
+}
+#header
+{
+ background-color: #ffff;
+ height: 120px;
+ width: 100%;
+ display: flex;
+ align-items:center;
+ justify-content:space-evenly;
+ font-size:x-large;
+ 
+
+
+}
+#categories
+{
+    color: #98FF6E;
+    
+}
+a {
+    text-decoration: none;
+    color: #06630B;
+
+}
+a:active {
+    color: #98FF6E;
+
+}
+#footer
+{
+ background-color: #06630B;
+ height: 180px;
+ width: 100%;
+ display: flex;
+ align-items:center;
+ justify-content:space-evenly;
+ font-size:x-large;
+ padding-top: 90px;
+
+
 }
