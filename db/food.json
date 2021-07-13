@@ -3,7 +3,7 @@
     {
       "id": "1",
       "question": "Is organic food the same as sustainable food?",
-      "answer": "Organic food is grown without synthetic inputs such as chemical pesticides or synthetic fertilizers. Organic farms instead use natural approaches and fertilizers, such as crop rotation and manure, to control pests, diseases and weeds. Due to these practices, organic food, most of the time can be more sustainable."
+      "answer": "Organic food is grown without synthetic inputs such as chemical pesticides or synthetic fertilizers. Organic farms instead use natural approaches and fertilizers, such as crop rotation and manure, to control pests, diseases and weeds.Due to these practices, organic food, most of the time can be more sustainable."
     },
     {
       "id": "2",
@@ -23,8 +23,7 @@
     {
       "id": "5",
       "question": "What type of food packaging is sustainable?",
-      "answer": "Try to stay away from all packaging. Buy fruits and vegetables, locally, without plastic bags.
-      Since avoiding all packaging isn't possible, for non-fruit and vegetable items, stick to glass, aluminum, cardboard or paper packaging."
+      "answer": "Try to stay away from all packaging. Buy fruits and vegetables, locally, without plastic bags. Since avoiding all packaging isn't possible, for non-fruit and vegetable items, stick to glass, aluminum, cardboard or paper packaging."
     },
     {
       "id": "6",
